@@ -1,6 +1,7 @@
 {
   "2026-08-19": {
-    "dsa": true,
-    "lld": true
+    "dsa": false,
+    "lld": true,
+    "ai": true
   }
 }
